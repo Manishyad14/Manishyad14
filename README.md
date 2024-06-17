@@ -37,7 +37,7 @@ I'm constantly learning and growing as a developer. Currently, I'm diving deeper
 - [LinkedIn](https://www.linkedin.com/in/manish-yadav-696888217/)
 
 
-
+![](https://komarev.com/ghpvc/?username=your-Manishyadav14e&color=green)
 
 
 Feel free to reach out and let's collaborate on exciting projects together!
