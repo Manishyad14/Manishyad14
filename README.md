@@ -37,9 +37,7 @@ I'm constantly learning and growing as a developer. Currently, I'm diving deeper
 - [LinkedIn](https://www.linkedin.com/in/manish-yadav-696888217/)
 
 
-![](https://komarev.com/ghpvc/?username=your-Manishyadav14e&color=green)
-[![Top Langs](https://img.shields.io/github/languages/top/Manishyadav14e/movie-recommendation-app)](https://github.com/Manishyadav14/movie-recommendation-app)
-![Profile Views](https://komarev.com/ghpvc/?username=your-Manishyadav14e&color=green)
+
 
 
 Feel free to reach out and let's collaborate on exciting projects together!
