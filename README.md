@@ -37,7 +37,7 @@ I'm constantly learning and growing as a developer. Currently, I'm diving deeper
 - [LinkedIn](https://www.linkedin.com/in/manish-yadav-696888217/)
 
 
-https://img.shields.io/github/languages/top/{Manishyadav14}/{Manishyadav14}
+
 
 
 Feel free to reach out and let's collaborate on exciting projects together!
