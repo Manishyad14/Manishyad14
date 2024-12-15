@@ -30,11 +30,11 @@ I'm constantly learning and growing as a developer. Currently, I'm diving deeper
 
 ## ⚡ Live Achievements & Stats
 
-[![Achievements](https://img.shields.io/badge/Achievements-Live-blue.svg?style=flat-square)](https://github.com/Manish-Yadav)
+[![Achievements](https://img.shields.io/badge/Achievements-Live-blue.svg?style=flat-square)](https://github.com/Manishyad14)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manish-Yadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manishyad14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Manish Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish-Yadav&show_icons=true&theme=radical)
+![Manish Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishyad14&show_icons=true&theme=radical)
 
 
 ## 📫 Let's Connect
